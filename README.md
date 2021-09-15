@@ -1,4 +1,11 @@
-# Computer_Graphics
+# Computer Graphics
 
-A small compilation of Matlab functions for various grapihcs tasks
+A small "toolbox" of Matlab functions for various graphics tasks
 
+# Contents
+
+- bresenham:
+-  circles:
+-  ellipsis:
+-  octagon:
+-  sphere:
