@@ -13,13 +13,13 @@ y=0;
 fmid=b1*(0.25-x)+a1;
 
 while (dx > dy)
-    %2o οκταμοριο
+    %2nd Octant
     image(x+xp,y+yp,0);
-    %3ο οκταμοριο
+    %3rd Octant
     image(xp-x,y+yp,0);
-    %6ο οκταμοριο
+    %6th Octant
     image(xp-x,yp-y,0);
-    %7ο οκταμοριο
+    %7th Octant
     image(x+xp,yp-y,0);
     y=y+1;
     dy=dy+axis_a;
@@ -33,13 +33,13 @@ end
 fmid=fmid-(dy + dx)/2+0.75*(b1-a1);
 
 while(x >= 0)
-    %1ο οκταμοριο
+    %1st Octant
     image(x+xp,y+yp,0);
-    %4ο οκταμοριο
+    %4th Octant
     image(xp-x,y+yp,0);
-    %5o οκταμοριο
+    %5th Octant
     image(xp-x,yp-y,0);
-    %8o οκταμοριο
+    %8th Octant
     image(x+xp,yp-y,0);
     x=x-1;
     dx=dx-axis_b;
