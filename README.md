@@ -1,4 +1,3 @@
-![bunny](https://user-images.githubusercontent.com/58198596/133482723-61fae8c8-8109-43cd-a85e-42bfe6b388ee.jpg)
 # Computer Graphics
 
 A small "toolbox" consisting of Matlab functions for the creation of geometric shapes.
