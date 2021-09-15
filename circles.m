@@ -6,21 +6,21 @@ error=3-2*r;
 
 while (x<=y)
     hold on;
-     %1o οκταμοριο
+     %1st Octant
     image(y+xk,x+yk,0)
-     %2o οκταμοριο
+     %2nd Octant
     image(x+xk,y+yk,0) 
-     %3o οκταμοριο
+     %3rd Octant
     image(xk-x,y+yk,0)
-     %4ο οκταμοριο
+     %4th Octant
     image(xk-y,x+yk,0)
-     %5ο οκταμοριο
+     %5th Octant
     image(xk-y,yk-x,0)
-     %6ο οκταμοριο
+     %6th Octant
     image(xk-x,yk-y,0)
-     %7ο οκταμοριο
+     %7th Octant
     image(x+xk,yk-y,0)
-     %8ο οκταμοριο
+     %8th Octant
     image(y+xk,yk-x,0)
     x=x+1;
     if(error>=0)
