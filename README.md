@@ -1,3 +1,4 @@
+![bunny](https://user-images.githubusercontent.com/58198596/133482723-61fae8c8-8109-43cd-a85e-42bfe6b388ee.jpg)
 # Computer Graphics
 
 A small "toolbox" consisting of Matlab functions for the creation of geometric shapes.
@@ -22,3 +23,6 @@ A small "toolbox" consisting of Matlab functions for the creation of geometric s
    
    Function: It creats an ellipse of center (x,y) and axis length a and b (described by the equation x^2/a^2 + y^2/b^2)
    
+# Example
+   
+![bunny](https://user-images.githubusercontent.com/58198596/133482801-7fdb4e6b-f763-407a-be15-e5e579be90b0.jpg)
