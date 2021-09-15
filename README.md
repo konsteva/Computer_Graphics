@@ -1,6 +1,6 @@
 # Computer Graphics
 
-A small "toolbox" of Matlab functions for various graphics tasks
+A small "toolbox" consisting of Matlab functions for various graphics tasks
 
 # Contents
 
